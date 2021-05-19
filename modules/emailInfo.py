@@ -96,8 +96,11 @@ def LeakSources(email):
 	count = 0
 	for info in infoLeak:
 
+		link = tileLeak[count].replace(':','')
+		link = link.replace(' ','-')
 		print(Style.BRIGHT+Fore.RED+Back.YELLOW+ tileLeak[count]+Style.RESET_ALL+Fore.RESET+Back.RESET+"\n")
 		print(info[0]+Style.BRIGHT+Fore.RED+info[1]+Style.RESET_ALL+Fore.RESET+Back.RESET)
+		print("\n"+Style.BRIGHT+Fore.BLUE+"Link to download leaks: "+Fore.RESET+"https://raidforums.com/Thread-"+link+"Database-Leaked-Download")
 		count = count+1
 		print ("\n"+Style.BRIGHT+Fore.BLUE+"-----------------------------------------------------------------------------------------------------------"+Fore.RESET+Style.RESET_ALL)
 
