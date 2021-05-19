@@ -27,7 +27,7 @@ sudo python3 delvedleak.py
 <h1 align="left">
   <span>Password Leak</span>
   <a href="#"><img src="https://i.imgur.com/dkfLWfG.png" width="550"  title="SS!"></a>
-  <a href="#"><img src="https://i.imgur.com/DazPJwC.png" width="640" height="360" title="SS2!"></a>
+  <a href="#"><img src="https://i.imgur.com/Ew7PGfJ.png" width="640" height="360" title="SS2!"></a>
   <span> Email Pwned</span>
 </h1>
 
