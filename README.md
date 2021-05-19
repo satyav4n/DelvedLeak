@@ -1,6 +1,6 @@
 # DelvedLeak
 
-[![License](https://img.shields.io/badge/License-MIT-lightgrey)](https://github.com/Sh4rk0-666/DelvedLeak/LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-lightgrey)](https://github.com/Sh4rk0-666/DelvedLeak/blob/main/LICENSE)
 [![Twitter](https://img.shields.io/badge/Twitter-%40Chungo__0-%231da1f2)](https://twitter.com/Chungo_0/)
 [![Patreon](https://img.shields.io/badge/HackingPills-Patreon-critical)](https://www.patreon.com/HackingPills)
 
