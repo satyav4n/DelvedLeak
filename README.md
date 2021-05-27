@@ -1,3 +1,8 @@
+<h1 align="center">
+  <a href="#"><img src="https://i.imgur.com/biKJwEp.png" width="550"  title="SS!"></a>
+</h1>
+
+
 # DelvedLeak
 
 [![License](https://img.shields.io/badge/License-MIT-lightgrey)](https://github.com/Sh4rk0-666/DelvedLeak/blob/main/LICENSE)
