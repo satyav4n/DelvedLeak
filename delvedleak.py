@@ -22,7 +22,19 @@ print("\r", end="")
 #start torghost
 subprocess.getoutput('torghost -s')
 
+
 print(Style.BRIGHT + Fore.GREEN+" [✓]"+Fore.RED+"TorGhost running.")
+print('''
+
+·▄▄▄▄  ▄▄▄ .▄▄▌   ▌ ▐·▄▄▄ .·▄▄▄▄  ▄▄▌  ▄▄▄ . ▄▄▄· ▄ •▄ 
+██▪ ██ ▀▄.▀·██•  ▪█·█▌▀▄.▀·██▪ ██ ██•  ▀▄.▀·▐█ ▀█ █▌▄▌▪
+▐█· ▐█▌▐▀▀▪▄██▪  ▐█▐█•▐▀▀▪▄▐█· ▐█▌██▪  ▐▀▀▪▄▄█▀▀█ ▐▀▀▄·
+██. ██ ▐█▄▄▌▐█▌▐▌ ███ ▐█▄▄▌██. ██ ▐█▌▐▌▐█▄▄▌▐█ ▪▐▌▐█.█▌
+▀▀▀▀▀•  ▀▀▀ .▀▀▀ . ▀   ▀▀▀ ▀▀▀▀▀• .▀▀▀  ▀▀▀  ▀  ▀ ·▀  ▀
+			Version: 1.0
+			Author: Chungo_0
+''')
+
 print (Style.BRIGHT+Fore.BLUE+"----------------------"+Fore.RESET+Style.RESET_ALL)
 print (Style.BRIGHT+Fore.RED+"⬤ "+Fore.RESET+Style.RESET_ALL + " = High risk")
 print (Style.BRIGHT+Fore.GREEN+"⬤ "+Fore.RESET+Style.RESET_ALL + " = Low risk")
